@@ -1,0 +1,6 @@
+repos:
+  - FredrikL/ghstats
+bots:
+  - dependabot[bot]
+orgskip:
+  - FredrikL
